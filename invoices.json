@@ -1,15 +1,23 @@
 {
 	"companyLogo": "http://lea.verou.me/logo.svg",
-	"companyName": "Lea Verou",
+	"companyName": "Leah Curran",
 	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"id": "3",
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "2",
-			"date": "2016-10-06",
+			"date": "2016-10-31",
 			"recipient": {
-				"name": "Widget Corp",
+				"name": "Public Glass",
 				"address": "1 Technology Square\nCambridge, MA 02139"
 			},
 			"currency": "$",
